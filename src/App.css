@@ -15,6 +15,7 @@ h1, h2, h3, h4, h5, h6, div, p, li, ul, header, html, i, img, label, nav, p, sma
   margin: 0;
   padding: 0;
   border: 0;
+  background-color: #f5f5f5;
   font-size: 100%;
   background: transparent;
   vertical-align: baseline;

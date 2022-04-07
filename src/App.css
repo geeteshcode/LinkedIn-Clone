@@ -10,6 +10,10 @@ body{
   box-sizing: border-box;
 }
 
+.app{
+  display: flex;
+  flex-direction: column;
+}
 
 h1, h2, h3, h4, h5, h6, div, p, li, ul, header, html, i, img, label, nav, p, small, span{
   margin: 0;
@@ -22,3 +26,6 @@ h1, h2, h3, h4, h5, h6, div, p, li, ul, header, html, i, img, label, nav, p, sma
   outline: none;
 }
 
+.app_body{
+  display: flex;
+}
